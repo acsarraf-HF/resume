@@ -1,6 +1,5 @@
 # resume
 LaTeX template for my personal resume
 
-https://github.com/acsarraf-HF/resume/blob/master/resume.pdf
 
-
+<img width="612" height="790" alt="Screenshot 2025-11-21 at 20 59 44" src="https://github.com/user-attachments/assets/a504104e-80d4-4e7d-a3ec-3aa4484e1bdd" />
